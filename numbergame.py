@@ -1,6 +1,7 @@
 import random
 while True:
-    num=int(input("enter any number: "))
+    #num=int(input("enter any number: "))
+    num=5
     a=random.randint(1,9)
     print("random number is: ",a)
     if num==a:
